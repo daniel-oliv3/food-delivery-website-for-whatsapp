@@ -30,10 +30,12 @@
     color: #fff;
     text-transform: uppercase;
     line-height: 15px;
-    text-decoration: none;
+    text-decoration: none; /*up*/
 }
 
-
+.topo ul li  a:hover {
+    color: #f2e41b;
+}
 
 
 
