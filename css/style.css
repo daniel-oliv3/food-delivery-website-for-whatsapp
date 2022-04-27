@@ -70,8 +70,16 @@
     background: red;
     border-radius: 10px;
     box-shadow: black 2px 2px 10px;
+    text-decoration: none;
 }
 
+.banner a:hover {
+    background: #f2e41b;
+    color: black;
+    text-decoration: underline;
+    transition: all 0.3s;
+    box-shadow: black 2px 2px 10px;    
+}
 
 
 
