@@ -127,11 +127,37 @@
     transform: scale(1.1);
 }
 
+.combo h3 {
+    background: #d90404;
+    color: #fff;
+    font-weight: bold;
+}
 
 
+.combo p {
+    font-family: 'Lato', sans-serif;
+    font-size: 17px;
+    color: black;
+    line-height: 30px;
+    margin-bottom: 20px;
+    text-align: center;
+    text-transform: initial;
+}
 
+.combo h4 a {
+    background-color: green;
+    padding: 10px;
+    color: #fff;
+    font-family: 'Oswald', sans-serif;
+    line-height: 65px;
+    text-decoration: none;
+}
 
-
+.combo h4 a:hover {
+    background-color: #d90404;
+    color: #fff;
+    transition: 0.8 all;
+}
 
 
 
