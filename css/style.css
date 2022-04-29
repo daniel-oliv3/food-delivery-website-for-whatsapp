@@ -240,11 +240,15 @@
 }
 
 
+.localizacao a img {
+    margin-bottom: 40px;
+}
+
 
 /* ======= Footer Section/Seção de Rodapé ======= */
 .footer {
     width: 100%;
-    height: 60px;
+    height: 100px;
     background: #d90404;
 }
 
@@ -255,6 +259,7 @@
     color: white;
     text-align: center;
     line-height: 50px;
+    margin-top: 30px;
 }
 
 
