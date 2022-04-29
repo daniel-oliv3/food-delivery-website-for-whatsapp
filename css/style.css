@@ -242,15 +242,25 @@
 
 
 /* ======= Footer Section/Seção de Rodapé ======= */
+.footer {
+    width: 100%;
+    height: 60px;
+    background: #d90404;
+}
 
 
+.footer h3 {
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    line-height: 50px;
+}
 
 
-
-
-
-
-
+.footer h3 span {
+    color: #f2e41b;
+}
 
 
 
