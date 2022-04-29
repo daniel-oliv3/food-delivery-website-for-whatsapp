@@ -265,11 +265,21 @@
 
 
 
+/* Scrollbar */
+::-webkit-scrollbar,
+::-webkit-scrollbar-thumb,
+::-webkit-scrollbar-track {
+    background: #d90404;
+}
 
+::-webkit-scrollbar {
+    width: 4px;
+    background: #d90404;
+}
 
-
-
-
+::-webkit-scrollbar-thumb {
+    background: #f2e41b;
+}
 
 
 
